@@ -1,0 +1,6 @@
+@jobconnect_HostAddress = http://localhost:7163
+
+GET {{jobconnect_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
